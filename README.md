@@ -4,11 +4,6 @@ An AI-powered web application that generates personalized meal plans and provide
 
 ---
 
-## 🔥 Live Demo
-👉 https://ai-personalized-fitness-planner-ev98lbkxd5fsdufnwrwjhj.streamlit.app/
-
----
-
 ## 🧠 Features
 
 - ✅ Personalized Meal Planning (7-day plan with calories & macros)
