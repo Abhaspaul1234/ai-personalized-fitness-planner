@@ -1,29 +1,36 @@
-1️⃣ AI Personalized Workout & Diet Planner
+# 🚀 AI Personalized Workout & Diet Planner
 
-An AI-powered web application that generates customized workout and diet plans using Google Gemini based on user profile inputs.
+An AI-powered web application that generates personalized meal plans and provides nutrition insights based on user inputs.
 
-2️⃣ Live App Link
-🔗 Live Demo: https://ai-personalized-fitness-planner-ev98lbkxd5fsdufnwrwjhj.streamlit.app/
+---
 
-3️⃣ Features
+## 🔥 Live Demo
+👉 https://ai-personalized-fitness-planner-ev98lbkxd5fsdufnwrwjhj.streamlit.app/
 
-Personalized workout plan
+---
 
-AI-generated diet recommendations
+## 🧠 Features
 
-User profile input (age, gender, goal, etc.)
+- ✅ Personalized Meal Planning (7-day plan with calories & macros)
+- ✅ Food Nutrition Analysis (AI-based)
+- ✅ Health Insights using AI
+- ✅ User Profile Customization
 
-Real-time plan generation
+---
 
-4️⃣ Tech Stack
-Python, Streamlit, Pandas, Google Gemini API, dotenv
+## 🛠 Tech Stack
 
-5️⃣ How to Run Locally
-git clone https://github.com/Abhaspaul1234/ai-personalized-fitness-planner
+- Python
+- Streamlit
+- Google Gemini API
+- REST APIs
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+git clone https://github.com/Abhaspaul1234/ai-personalized-fitness-planner.git
 cd ai-personalized-fitness-planner
 pip install -r requirements.txt
 streamlit run app.py
-
-6️⃣ Environment Variables
-Create a .env file and add: 
- GOOGLE_API_KEY=your_api_key
